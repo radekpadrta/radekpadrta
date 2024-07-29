@@ -11,6 +11,9 @@ I'm a Cloud | DevOps | AI engineer. Excited to grow and innovate together!
   <a href="https://www.strava.com/athletes/134432401" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/strava/strava-ar21.svg" alt="strava" height="45" width="80" />
   </a>
+  <a href="https://www.strava.com/athletes/134432401" target="blank">
+    <img align="center" src="/radekpadrtalogo.png" alt="strava" height="45" width="80" />
+  </a>
 </p>
 
 
