@@ -9,12 +9,10 @@
 
 🔗 &nbsp;**Connect with me**
 
-<p align="left">
-<a href="https://www.strava.com/athletes/134432401" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" alt="strava" height="30" width="40" />
-  <span style="line-height: 30px; vertical-align: middle;">&nbsp;Strava</span>
+<a href="https://www.strava.com/athletes/134432401" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" alt="Strava" height="30" width="40" style="vertical-align: middle; filter: invert(100%);">
+  <span style="vertical-align: middle; color: #FC4C02; font-weight: bold;">Strava</span>
 </a>
-</p>
 
 ### ✨&nbsp; About Me
 
