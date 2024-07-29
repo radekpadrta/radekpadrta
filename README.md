@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://www.strava.com/athletes/134432401" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/strava/strava-ar21.svg" alt="strava" height="30" width="60" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/strava/strava-ar21.svg" alt="strava" height="30" width="80" />
   </a>
 </p>
 
