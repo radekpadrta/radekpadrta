@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Cloud | DevOps | AI engineer. Excited to grow and innovate together!
+
 
 
 
