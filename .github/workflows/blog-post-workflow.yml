@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 * * * *'  # Opravená cron syntax - běží každou hodinu
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,6 +17,7 @@ jobs:
       - name: Pull in Substack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://radekpadrta.substack.com/feed.xml"
-          max_post_count: 5  # Počet zobrazených příspěvků
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,📝) [$title]($url)"  # Volitelná šablona
+          feed_list: "https://radekpadrta.substack.com/feed.xml"  # Zkuste tuto URL
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"  # Přidáno user-agent
+          disable_html_encoding: true
+          max_post_count: 5
