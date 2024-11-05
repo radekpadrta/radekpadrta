@@ -17,6 +17,6 @@ jobs:
       - name: Pull in Substack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://radekpadrta.substack.com/feed"
+          feed_list: "https://radekpadrta.substack.com/feed.xml"
           max_post_count: 5  # Počet zobrazených příspěvků
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,📝) [$title]($url)"  # Volitelná šablona
